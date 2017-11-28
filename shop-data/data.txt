@@ -1,0 +1,29 @@
+cd C:\workspace\local\wdp-layer-domain-subdomain-version-api
+
+build dummy data
+https://www.red-gate.com/products/sql-development/sql-data-generator/
+
+SQL database studio
+https://sqldatabasestudio.com/download
+
+https://www.npmjs.com/package/generate-schema
+CLI create mongoose schema from json
+
+https://help.shopify.com/api/reference/product
+https://help.shopify.com/api/reference/customer
+https://help.shopify.com/api/reference/order
+
+
+/inf/bnkng/arrngmnt/mrchntarrngmnt/site_maint/v1
+
+C:\Development\projects\data>generate-schema -m data.json > jj.txt
+
+C:\Development\projects\data>generate-schema -m data.json > jj.txt
+
+C:\Development\projects\data>generate-schema --mongoose product.json > productModel.js
+
+C:\Development\projects\data>generate-schema --mongoose customer.json > customerModel.js
+
+C:\Development\projects\data>generate-schema --mongoose address.json > addressModel.js
+
+C:\Development\projects\data>generate-schema --mongoose order.json > orderModel.js
